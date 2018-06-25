@@ -1,0 +1,2 @@
+# Live-Photo-SKetch
+This is a Live sketch maker made in OpenCv and Python3 . The best thing is that if you don't have webcam then You can download IpWebcam in Android and connect it to the laptop using wifi and then create real time live sketches of your photo.      Paste the url of the Android Ip Webcam into the url element present inside the code.     If you want black sketch or white sketch then use the Options : cv2.THRESH_BINARY || cv2.THRESH_BINARY_INV
